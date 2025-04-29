@@ -1,5 +1,5 @@
 /train_images/
 /test_images/
-/applicaton/build/
-/applicaton/dist/
-/applicaton/app.spec
+/application/build/
+/application/dist/
+/application/app.spec
