@@ -1,2 +1,5 @@
 /train_images/
 /test_images/
+applicaiton/build
+applicaiton/dist
+applicaiton/app.spec
